@@ -15,5 +15,5 @@ This repository contains my beginner-level C programs.
 - structures and unions
 - file handling
 
-## Status
+## Overview
 All C programs from my first semester in C programming.
