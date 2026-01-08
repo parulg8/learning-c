@@ -12,6 +12,8 @@ This repository contains my beginner-level C programs.
 - strings
 - loops (for, while)
 - pointers
+- dynamic memory allocation
+- recursive functions
 - structures and unions
 - file handling
 
